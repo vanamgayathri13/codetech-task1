@@ -1,6 +1,6 @@
 # codetech-task1
 **Name:**Vanam   Gayathri
-company : CODETECH IT SOLUTIONS
+**company :** CODETECH IT SOLUTIONS
 ID : CT08DS7739
 Domain: java programming
 Duration:september 10TH to october 10TH,2024
