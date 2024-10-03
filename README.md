@@ -1,5 +1,5 @@
 # codetech-task1
-Name : Vanam   Gayathri
+**Name:**Vanam   Gayathri
 company : CODETECH IT SOLUTIONS
 ID : CT08DS7739
 Domain: java programming
@@ -16,7 +16,7 @@ Input Validation: Handles invalid inputs gracefully, ensuring robust user intera
 Error Handling: Prevents division by zero and prompts users with appropriate messages for incorrect operations.
 User Interaction: Engages users with clear prompts and the option to perform multiple calculations in one session.
 Modular Design: Uses methods to separate calculation logic from user input, improving code readability and maintainability.
-Technologies Used
+# Technologies Used
 Java: The primary programming language used to develop the calculator application.
 Java Util Package: Utilized for the Scanner class to handle user input from the console.
 
