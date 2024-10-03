@@ -7,7 +7,7 @@
 **Mentor:**
 
 # Project Overview: Simple Calculator
-Objective:
+**Objective:**
 The objective of this project is to create a simple console-based calculator application that allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division). The program aims to provide a user-friendly experience while demonstrating fundamental programming concepts in Java.
 
 **Key Features:**
