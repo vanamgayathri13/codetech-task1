@@ -1,0 +1,51 @@
+import java.util.Scanner;
+import java.lang.*;
+public class calculator
+	{
+	public static void main(String args[])
+	{ 
+	Scanner s=new Scanner(System.in);
+	System.out.println("Welcome to the simple calculator");
+	int a,b;
+	int result;
+	System.out.println("enter first number");
+	a=s.nextInt();
+	System.out.println("enter second number");
+	b=s.nextInt();
+	System.out.println("Enter an operator (+, -, *, /): ");
+	System.out.println("choose a operator");
+	char operator=s.next().charAt(0);
+	
+	switch(operator)
+	{
+	case '+':{
+	result=a+b;
+	System.out.println("the adition of two number is" +result);
+	break;
+}
+	case '-':{
+        result=a-b;
+	System.out.println("the subtraction of two numbers" +result);
+	break;
+}	
+	case '*':{
+	result=a*b;
+	System.out.println("the mutlplication of two numbers is" +result);
+	break;
+}
+	case '/':{
+	if(b!=0){
+	result=a/b;
+	System.out.println("the division of two numbers is" +result);
+	}
+	else{
+	System.out.println("division by zero is not allowed");
+	}	
+	break;
+}
+	default:{
+	System.out.println("enter correct option");
+	}
+}
+}
+}
