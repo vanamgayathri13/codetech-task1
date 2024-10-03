@@ -6,12 +6,12 @@ public class calculator
 	{ 
 	Scanner s=new Scanner(System.in);
 	System.out.println("Welcome to the simple calculator");
-	int a,b;
-	int result;
+	double a,b;
+	double result;
 	System.out.println("enter first number");
-	a=s.nextInt();
+	a=s.nextDouble();
 	System.out.println("enter second number");
-	b=s.nextInt();
+	b=s.nextDouble();
 	System.out.println("Enter an operator (+, -, *, /): ");
 	System.out.println("choose a operator");
 	char operator=s.next().charAt(0);
