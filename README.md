@@ -27,7 +27,7 @@ Multiplication (*): Multiplies the two numbers and displays the result.
 Division (/): Divides the first number by the second, with a check to prevent division by zero. If the second number is zero, it displays an error message.
 Default case: If an invalid operator is entered, it prompts the user to enter a correct option.
 
-Future Enhancements:
+ # Future Enhancements:
 Advanced Operations: Incorporate more complex mathematical functions such as exponentiation and square roots.
 Graphical User Interface (GUI): Develop a GUI version using Java Swing or JavaFX for a more interactive user experience.
 Unit Testing: Implement automated tests to verify the correctness of calculations and handle edge cases.
