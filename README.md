@@ -1,10 +1,10 @@
 # codetech-task1
-**Name:**Vanam   Gayathri
+**Name:** Vanam   Gayathri
 **company :** CODETECH IT SOLUTIONS
-ID : CT08DS7739
-Domain: java programming
-Duration:september 10TH to october 10TH,2024
-Mentor:
+**ID :** CT08DS7739
+**Domain:** java programming
+**Duration:** september 10TH to october 10TH,2024
+**Mentor:**
 
 # Project Overview: Simple Calculator
 Objective:
