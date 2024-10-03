@@ -32,6 +32,7 @@ Advanced Operations: Incorporate more complex mathematical functions such as exp
 Graphical User Interface (GUI): Develop a GUI version using Java Swing or JavaFX for a more interactive user experience.
 Unit Testing: Implement automated tests to verify the correctness of calculations and handle edge cases.
 Feel free to modify any sections to better fit your vision for the project! Let me know if you need further assistance.
+# CODETECH TASK-2
 
 
 
